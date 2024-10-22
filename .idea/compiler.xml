@@ -6,22 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="clientservices" />
         <module name="discoveryservice" />
+        <module name="configservice" />
+        <module name="compteservice" />
         <module name="getwayservice" />
         <module name="travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="clientsevice" target="21" />
-      <module name="compteservices" target="21" />
-      <module name="configservices" target="21" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="clientsevice" options="-parameters" />
-      <module name="compteservices" options="-parameters" />
-      <module name="configservices" options="-parameters" />
+      <module name="clientservices" options="-parameters" />
+      <module name="compteservice" options="-parameters" />
+      <module name="configservice" options="-parameters" />
       <module name="discoveryservice" options="-parameters" />
       <module name="getwayservice" options="-parameters" />
       <module name="travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG" options="-parameters" />
