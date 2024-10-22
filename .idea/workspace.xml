@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4cee772-317a-4c94-b270-78407f24cec9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/clientservices/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientservices/compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compteservice/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compteservice/compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/account-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/account-service-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/account-service.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/customer-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/customer-service-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/customer-service.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/gateway-service.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configservice/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discoveryservice/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getwayservice/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getwayservice/src/main/resources/app.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getwayservice/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="temurin-21" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kkuZ6w1i7hyfzVLkIn7rcu4OLg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.docker-compose.yml.angularfront: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compose.yml.ebank-config-service: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compose.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ClientservicesApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CompteserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ConfigserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.DiscoveryserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GetwayserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Utilisateur/Documents/mes projets/pour mon portofolio/travaux_la_Dockerisation_ArchitectureMicroServices_Springcloud/travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.archetype.catalogs&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Utilisateur\Documents\mes projets\pour mon portofolio\travaux_la_Dockerisation_ArchitectureMicroServices_Springcloud\travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG" />
+      <recent name="C:\Users\Utilisateur\Documents\mes projets\pour mon portofolio\travaux_la_Dockerisation_ArchitectureMicroServices_Springcloud\travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG\compteservice" />
+      <recent name="C:\Users\Utilisateur\Documents\mes projets\pour mon portofolio\travaux_la_Dockerisation_ArchitectureMicroServices_Springcloud\travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG\clientservices" />
+      <recent name="C:\Users\Utilisateur\Documents\mes projets\pour mon portofolio\travaux_la_Dockerisation_ArchitectureMicroServices_Springcloud\travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG\getwayservice\src\main\resources" />
+      <recent name="C:\Users\Utilisateur\Documents\mes projets\pour mon portofolio\travaux_la_Dockerisation_ArchitectureMicroServices_Springcloud\travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG\getwayservice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml.angularfront: Compose Deployment">
+    <configuration name="ClientservicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="clientservices" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kounettechnologie.kounet.clientservices.ClientservicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompteserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="compteservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kounettechnologie.kounet.compteservice.CompteserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="configservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kounettechnologie.kounet.configservice.ConfigserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discoveryservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kounettechnologie.kounet.discoveryservice.DiscoveryserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetwayserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="getwayservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kounettechnologie.kounet.getwayservice.GetwayserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravauxLaDockerisationArchitectureMicroServicesSpringcloudGApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kounettechnologie.kounet.travaux_la_dockerisation_architecturemicroservices_springcloudg.TravauxLaDockerisationArchitectureMicroServicesSpringcloudGApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.angularfront: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="angularfront" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.ebank-config-service: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="ebank-config-service" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.angularfront: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.ebank-config-service: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringProfilesService">
+    <option name="activeProfiles">
+      <map>
+        <entry key="configservice" value="kounet" />
+      </map>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4cee772-317a-4c94-b270-78407f24cec9" name="Changes" comment="" />
+      <created>1723839947885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723839947885</updated>
+      <workItem from="1723839949765" duration="17359000" />
+      <workItem from="1723949932517" duration="2305000" />
+      <workItem from="1723995083083" duration="26598000" />
+      <workItem from="1724093536491" duration="4037000" />
+      <workItem from="1724099340729" duration="779000" />
+      <workItem from="1724102256387" duration="8231000" />
+      <workItem from="1724111014898" duration="2297000" />
+      <workItem from="1724117928080" duration="1906000" />
+      <workItem from="1724120329535" duration="354000" />
+      <workItem from="1724120993746" duration="5069000" />
+      <workItem from="1724155307561" duration="28085000" />
+      <workItem from="1724205307334" duration="48000" />
+      <workItem from="1724205655081" duration="4754000" />
+      <workItem from="1724211630022" duration="798000" />
+      <workItem from="1724242863159" duration="6587000" />
+      <workItem from="1724289544440" duration="2750000" />
+      <workItem from="1724307187741" duration="30000" />
+      <workItem from="1725601615526" duration="126000" />
+      <workItem from="1725602896683" duration="4455000" />
+      <workItem from="1725849977783" duration="252000" />
+      <workItem from="1726199996391" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
