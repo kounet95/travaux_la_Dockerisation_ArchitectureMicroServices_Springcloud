@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="clientservices" />
-        <module name="discoveryservice" />
-        <module name="configservice" />
+        <module name="getwayservice (1)" />
         <module name="compteservice" />
-        <module name="getwayservice" />
         <module name="travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG" />
+        <module name="discoveryservice" />
+        <module name="discoveryservice (1)" />
+        <module name="configservice" />
+        <module name="getwayservice" />
       </profile>
     </annotationProcessing>
   </component>
@@ -21,7 +23,9 @@
       <module name="compteservice" options="-parameters" />
       <module name="configservice" options="-parameters" />
       <module name="discoveryservice" options="-parameters" />
+      <module name="discoveryservice (1)" options="-parameters" />
       <module name="getwayservice" options="-parameters" />
+      <module name="getwayservice (1)" options="-parameters" />
       <module name="travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG" options="-parameters" />
     </option>
   </component>

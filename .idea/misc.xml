@@ -4,13 +4,24 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/clientservices/pom.xml" />
-        <option value="$PROJECT_DIR$/compteservice/pom.xml" />
+        <option value="$PROJECT_DIR$/compteservices/pom.xml" />
+        <option value="$PROJECT_DIR$/clientservice/pom.xml" />
         <option value="$PROJECT_DIR$/discoveryservice/pom.xml" />
         <option value="$PROJECT_DIR$/getwayservice/pom.xml" />
         <option value="$PROJECT_DIR$/configservice/pom.xml" />
+        <option value="$PROJECT_DIR$/travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG/pom.xml" />
+        <option value="$PROJECT_DIR$/travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG/compteservices/pom.xml" />
+        <option value="$PROJECT_DIR$/travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG/clientsevice/pom.xml" />
+        <option value="$PROJECT_DIR$/travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG/configservices/pom.xml" />
+        <option value="$PROJECT_DIR$/travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG/getwayservice/pom.xml" />
+        <option value="$PROJECT_DIR$/travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG/discoveryservice/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG/clientsevice/pom.xml" />
+        <option value="$PROJECT_DIR$/travaux_la_Dockerisation_ArchitectureMicroServices_SpringcloudG/compteservices/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="21" project-jdk-type="JavaSDK" />

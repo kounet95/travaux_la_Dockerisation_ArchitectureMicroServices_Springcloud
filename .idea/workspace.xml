@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cee772-317a-4c94-b270-78407f24cec9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clientservices/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientservices/compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compteservice/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compteservice/compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/account-service-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/account-service-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/account-service.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/customer-service-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/customer-service-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/customer-service.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-repo/bank-account-config-repo/gateway-service.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configservice/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discoveryservice/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getwayservice/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getwayservice/src/main/resources/app.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getwayservice/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="c4cee772-317a-4c94-b270-78407f24cec9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -138,9 +118,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DiscoveryserviceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discoveryservice (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kounettechnologie.kounet.discoveryservice.DiscoveryserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DiscoveryserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="discoveryservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="kounettechnologie.kounet.discoveryservice.DiscoveryserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetwayserviceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="getwayservice (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kounettechnologie.kounet.getwayservice.GetwayserviceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -251,6 +245,7 @@
       <workItem from="1725602896683" duration="4455000" />
       <workItem from="1725849977783" duration="252000" />
       <workItem from="1726199996391" duration="37000" />
+      <workItem from="1729845252580" duration="877000" />
     </task>
     <servers />
   </component>
